@@ -1,0 +1,19 @@
+html{
+    font-family: 'Sansita Swashed', cursive;
+    
+}
+h1{
+    background-color:bisque;
+} 
+h2{
+    background-color:darkgray;
+    color:white;
+}
+
+body{
+    width: 400px;
+}
+.span {
+    color: chocolate;
+    
+}
